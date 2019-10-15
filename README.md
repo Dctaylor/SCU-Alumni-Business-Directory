@@ -1,4 +1,22 @@
-# software-engineering-lab
+# SCU Alumni Business Directory
+
+## Preview
+
+The Home Page
+![Main Page](./pics/MainPage.png)
+
+A Business' Detail Page
+![Details Page](./pics/DetailsPage.png)
+
+The Form to Submit a Business to the Database
+![Submit a Business](./pics/SubmitBusiness.png)
+
+The Admin Login Page
+![Admin Login](./pics/adminlogin.png)
+
+The Admin Page for approving new businesses, edits to existing entries, and removals
+![Admin Page](./pics/AdminPage.png)
+
 
 ## Installation
 
